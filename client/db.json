@@ -1,0 +1,36 @@
+{
+    "Quadratics": [
+        {
+            "id": 1,
+            "form": "standard",
+            "link": "https://www.yout-ube.com/watch?v=MQtsRYPx3v0&t=2s"
+        },
+        {
+            "id": 2,
+            "form": "factored",
+            "link": "https://www.yout-ube.com/watch?v=EV57jv7JKCs"
+        },
+        {
+            "id": 3,
+            "form": "vertex",
+            "link": "https://www.yout-ube.com/watch?v=7QMoNY6FzvM"
+        }
+    ],
+    "Linear": [
+        {
+            "id": 1,
+            "form": "standard",
+            "link": "https://www.yout_ube.com/watch?v=6CFE60iP2Ug"
+        },
+        {
+            "id": 2,
+            "form": "slope-intercept",
+            "link": "https://www.yout_ube.com/watch?v=IL3UCuXrUzE"
+        },
+        {
+            "id": 3,
+            "form": "point-slope",
+            "link": "https://www.yout_ube.com/watch?v=K_OI9LA54AA"
+        }
+    ]
+}
