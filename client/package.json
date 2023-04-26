@@ -9,13 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "desmos": "^1.5.4",
+    "desmos-react": "^1.2.0",
+    "function-plot": "^1.23.2",
     "next": "13.3.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@types/node": "18.16.1",
+    "@types/react": "18.2.0",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23",
-    "tailwindcss": "^3.3.1"
+    "tailwindcss": "^3.3.1",
+    "typescript": "5.0.4"
   }
 }
